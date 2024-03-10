@@ -1,5 +1,5 @@
 <h1 align="center">hi 💜 i'm kiersten</h1>
-<h3 align="center">3rd year mechanical engineering student ~ specializing in controls & robotics</h3>
+<h3 align="center">3rd year mechanical engineering student @ uc san diego ~ specializing in controls & robotics</h3>
 
 - 🔭 currently working on ~ [UCSDrive! Autonomous Robot Car](https://github.com/kiers-neely/ucsd-mae-148-team-4)
 
