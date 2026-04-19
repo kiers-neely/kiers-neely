@@ -3,7 +3,7 @@
 <h3 align="center">major specialization: controls & robotics</h3>
 <h3 align="center">minor: design</h3>
 
-- 🔭 currently working on ~ [UCSDrive! Autonomous Robot Car](https://github.com/kiers-neely/ucsd-mae-148-team-4)
+- 🔭 currently working (with Claude) on ~ [US Warehouse Fire Tracker](https://github.com/kiers-neely/fire-tracker)
 
 - 🌱 currently learning ~ **ROS2, Python, Deep Learning, Computer Vision**
 
